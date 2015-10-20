@@ -650,7 +650,7 @@ form {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
-  color: #474747;
+  color: #FFFFFF;
   text-indent: 3px;
 }
 
@@ -658,7 +658,7 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "///";
-  color: #9ddcff;
+  color: #FFFFFF;
 }
 
 #main-content h4 {
